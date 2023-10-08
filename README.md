@@ -63,11 +63,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Assignment1-2] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Desktop and Mobile view of the website developed using this figma template ( https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?type=design&node-id=0-1&mode=design&t=SZtMm5XQCoDvrvUe-0 )
 
-**[your_project__name]** is a...
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -112,9 +112,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mueedanwari160.github.io/Assignment1-2-WebTech/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
